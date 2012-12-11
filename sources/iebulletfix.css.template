@@ -1,0 +1,16 @@
+ul.iebulletfix li
+{
+	background-image: url(data:image/png;base64,!!DISC!!);
+	background-position: left .4em;
+	background-repeat: no-repeat;
+	list-style-type: none;
+	padding-left: 12px;
+}
+ul.iebulletfix li li
+{
+	background-image: url(data:image/png;base64,!!CIRCLE!!);
+}
+ul.iebulletfix li li li
+{
+	background-image: url(data:image/png;base64,!!SQUARE!!);
+}
